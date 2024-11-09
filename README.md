@@ -76,5 +76,6 @@ sudo apt install ros-humble-rmw-cyclonedds-cpp
 
 sudo apt install ros-humble-slam-toolbox
 
+robot_model_type: "nav2_amcl::DifferentialMotionModel"
 
 
